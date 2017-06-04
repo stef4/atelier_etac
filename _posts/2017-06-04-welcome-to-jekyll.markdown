@@ -6,11 +6,10 @@ categories: jekyll update
 ---
 Vous trouverez ce billet dans le dossier `_posts`. Ouvrez-le, modifiez-le et recompilez le site pour voir vos changements. Vous pouvez recompiler votre site de différentes manières, mais la plus habituelle est de taper `jekyll serve`, dans une fenêtre de commandes. Ceci lancera un serveur web local et mettra automatiquement votre site à jour chaque fois qu'un fichier est modifié.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Pour ajouter de nouveaux articles, ajoutez simplement un fichier dans le dossier `_posts`. Le nom de ce fichier doit respecter la convention `AAAA-MM-JJ-titre-article.ext`. Le fichier doit inclure un entête *front matter*. Voyez le fichier source de cet article pour comprendre comment faire.
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Voyez la [documentation Jekyll][jekyll-docs] pour plus d'infos sur l'utilisation de Jekyll. Si vous avez des questions, vous pouvez aussi vous inscrire sur le forum [Jekyll Talk][jekyll-talk]. En français, vous trouverez de nombreuses infos sur le site [Bac à sable][bac-a-sable].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[bac-a-sable]: https://www.bac-a-sable.eu
 [jekyll-talk]: https://talk.jekyllrb.com/
