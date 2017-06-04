@@ -1,2 +1,2 @@
-# e-tac
-Prototype de site pour le projet e-TAC
+# Atelier e-tac
+Site d'entraînement pour le projet e-TAC
