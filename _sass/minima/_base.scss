@@ -56,11 +56,15 @@ figure > img {
   display: block;
 }
 
-figcaption {
+figcaption, {
   font-size: $small-font-size;
 }
 
-
+.legende {
+  font-size: $small-font-size;
+  color: $grey-color-dark;
+  font-size: .85em;
+}
 
 /**
  * Lists
@@ -71,12 +75,20 @@ ul, ol {
 
 li {
   > ul,
-  > ol {
+  > ol
+   {
     margin-bottom: 0;
   }
 }
 
+dt {
+  font-weight: bold;
+  color: $grey-color-dark;
+}
 
+dd {
+  margin-left: $spacing-unit;
+}
 
 /**
  * Headings
@@ -85,7 +97,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+/**
+ * Footnotes
+ */
 
+.footnotes {
+  border-top: solid 2px $grey-color-light;
+  margin-top: 2rem;
+  padding-top: .5rem;
+}
 
 /**
  * Links

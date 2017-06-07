@@ -4,12 +4,12 @@ title: À propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ceci est Minima, le thème de base pour Jekyll. Vous trouverez davantage de détails sur la façon de personnaliser votre thème Jekyll, ainsi qu'une documentation très complète sur l'utilisation de Jekyll sur le site  [jekyllrb.com](https://jekyllrb.com/){: target="_blank"}.
 
-You can find the source code for the Jekyll new theme at:
+Vous trouverez le code source de ce thème à l'adresse :
 {% include icon-github.html username="jekyll" %} /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at
+Vous trouverez le code source de Jekyll à l'adresse :
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
