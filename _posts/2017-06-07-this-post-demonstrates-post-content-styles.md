@@ -105,7 +105,7 @@ Orange
 
 ### Images
 
-Les images sont déposées ici dans le dossier `\assets\images`. Deux espaces après la photo pour que la légende passe bien à la ligne !
+Les images sont déposées ici dans le dossier `\assets\images`. Pensez à laisser **deux espaces** après la photo pour que la légende passe bien à la ligne !
 
 ![Un caloptéryx mâle](/assets/images/demoiselle.jpg){:height="600px" width="600px"}  
 <i class="fa fa-camera-retro" aria-hidden="true"></i> :fa-coffee: Calopteryx mâle - Photo P. Kessler - juin 2017

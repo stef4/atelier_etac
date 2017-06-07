@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 email: contact@bac-a-sable.eu
 description: > # this means to ignore newlines until "baseurl:"
-  Site d'exercice destiné à la formation des collègues lors du séminaire WP06 du 14 juin 2017.
+  Site d'exercice destiné à la formation des intervanants sur le *site vitrine* du projet e-TAC - séminaire WP06 du 14 juin 2017.
 baseurl: "/atelier_etac" # the subpath of your site, e.g. /blog
 url: "https://www.bac-a-sable.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
