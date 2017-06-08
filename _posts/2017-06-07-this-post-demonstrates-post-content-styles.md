@@ -127,3 +127,19 @@ Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet b
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Téléchargez le [Guide du média lycéen]({{site.url}}/assets/guide_lyceen.pdf).
 
 **P.S.** Pour voir la liste des icônes disponibles, consultez la page [FontAwesome](http://fontawesome.io/cheatsheet/){: target="_blank"}.
+
+## Pour finir, un tableau
+
+
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|

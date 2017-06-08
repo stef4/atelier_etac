@@ -29,6 +29,20 @@ iframe {
   padding-top: 1em;
   padding-bottom: 2em;
 }
+
+
+td, th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+}
+
+thead {background-color: $grey-color-light;}
+
+tfoot {background-color: $grey-color-pale;}
+
+table {
+  border-collapse: collapse;
+}
 /**
  * Table of contents
  */
