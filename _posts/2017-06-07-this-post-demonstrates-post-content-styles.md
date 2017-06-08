@@ -9,7 +9,7 @@ meta: "Springfield"
 * TOC
 {:toc}
 
-Voyez le fichier source de ce billet pour découvrir les notations **Markdown** permettant d'obtenir le *résultat affiché*. Consultez aussi le document [Kramdown Quick reference](https://kramdown.gettalong.org/quickref.html){: target='_blank'}.  
+Voyez le [fichier source](https://gist.githubusercontent.com/marathon67/fbd4f10ad866aff837d36d88c85fcf5c/raw/d99542874137bfa52c9e4b3bef0b9c2d72f6635e/kramdown_demo.md) de ce billet pour découvrir les notations **Markdown** permettant d'obtenir le *résultat affiché*. Consultez aussi le document [Kramdown Quick reference](https://kramdown.gettalong.org/quickref.html){: target='_blank'}.  
 Et vous pourrez également vous référer à la notice du [thème par défaut de Jekyll](https://github.com/jekyll/minima){: target='_blank'}, employé ici : **Minima**.
 **N. B.** il est également possible d'intégrer directement du code HTML dans les pages. 
 
