@@ -2,8 +2,9 @@
 title: Bienvenue dans Jekyll !
 layout: post
 date: '2017-06-04 14:39:50 +0200'
-categories: jekyll update
-published: true
+categories: jekyll
+author: "Pierre K."
+meta: "e-TAC"
 ---
 
 Vous trouverez ce billet dans le dossier `_posts`. Ouvrez-le, modifiez-le et recompilez le site pour voir vos changements. Vous pouvez recompiler votre site de différentes manières, mais la plus habituelle est de taper `jekyll serve`, dans une fenêtre de commandes. Ceci lancera un serveur web local et mettra automatiquement votre site à jour chaque fois qu'un fichier est modifié.

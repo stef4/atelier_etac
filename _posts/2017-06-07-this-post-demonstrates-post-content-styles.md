@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Mise en forme Markdown - Kramdown"
-categories: junk
-author: "Bart Simpson"
-meta: "Springfield"
+categories: jekyll
+author: "Pierre K."
+meta: "e-TAC"
 ---
 **Table des matières** (créée automatiquement)
 * TOC
