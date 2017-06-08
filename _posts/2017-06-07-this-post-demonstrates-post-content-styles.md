@@ -11,10 +11,11 @@ meta: "Springfield"
 
 Voyez le fichier source de ce billet pour découvrir les notations **Markdown** permettant d'obtenir le *résultat affiché*. Consultez aussi le document [Kramdown Quick reference](https://kramdown.gettalong.org/quickref.html){: target='_blank'}.  
 Et vous pourrez également vous référer à la notice du [thème par défaut de Jekyll](https://github.com/jekyll/minima){: target='_blank'}, employé ici : **Minima**.
+**N. B.** il est également possible d'intégrer directement du code HTML dans les pages. 
 
 ## Mise en forme élémentaire
 
-**Attention** : Markdown est un langage où des conventions de positionnement et indentation sont pris en compte. Vérifiez toujours que vos textes et commandes sont correctement alignés.
+**Attention** : Markdown est un langage où des conventions de positionnement et indentation sont prises en compte. Vérifiez toujours que vos textes et commandes sont correctement alignés.
 
 Pour créer un paragraphe, appuyez sur `Entrée` deux fois.  
 Pour créer un saut de ligne, vous devez laisser deux espaces à la fin de la ligne précédente.
@@ -116,6 +117,13 @@ Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet b
 
 ### Vidéos Youtube
 
-**Rien de plus simple** : copiez directement dans la page le code d'inclusion donné sur Youtube !
+**Rien de plus simple** : copiez directement dans la page le code d'inclusion donné sur Youtube ! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t3yEhIAOeg8?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+
+### Et fichiers .pdf
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Téléchargez le [Guide du média lycéen]({{site.url}}/assets/guide_lyceen.pdf).
+
+**P.S.** Pour voir la liste des icônes disponibles, consultez la page [FontAwesome](http://fontawesome.io/cheatsheet/){: target="_blank"}.
